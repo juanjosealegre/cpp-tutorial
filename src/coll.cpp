@@ -3,13 +3,6 @@
 #include <list>
 #include <stdexcept>
 
-void i_throw_exceptions() throw (std::domain_error);
-
-void i_throw_exceptions() throw (std::domain_error)
-{
-  throw std::domain_error("I throw exceptions for fun & profit!");
-}
-
 int main()  // valid in C++, (void) in C
 {
   std::list<std::deque<float> > list;
@@ -38,8 +31,6 @@ int main()  // valid in C++, (void) in C
     }
     std::cout << std::endl;
   }
-
-  i_throw_exceptions();
 
   return 0;
 }

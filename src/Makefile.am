@@ -1,5 +1,5 @@
-AM_CFLAGS=-g -pg -O0 
-AM_LDFLAGS = $(AM_CFLAGS)
+#AM_CFLAGS=-g -pg -O0 
+#AM_LDFLAGS = $(AM_CFLAGS)
 
 bin_PROGRAMS = \
 	grammar\

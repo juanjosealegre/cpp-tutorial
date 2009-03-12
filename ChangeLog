@@ -1,0 +1,7 @@
+2009-03-12 Michael Hasselmann <michaelh@openismus.com>
+
+* src/coll.cpp, src/grammar.cpp, src/grammar.txt:
+  Two examples based on "Acclerated C++ PPbE" by Andrew Koenig. The
+  grammar.cpp example is interesting in that it uses a
+  #RECURSIVE_RULE/#RULES_PER_COLLECTION probability as a stop condition for
+  recursions in rule sets with more than one rule.
