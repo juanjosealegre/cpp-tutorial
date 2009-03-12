@@ -1,0 +1,18 @@
+<sentence>  the <noun-phrase> <verb> <location>
+<location>  wherever it wants
+<location>  on the stairs
+<location>  under the sky
+<location>  in the closet
+<verb>      goes
+<verb>      jumps
+<verb>      sits
+<adjective> aggressive
+<adjective> large
+<adjective> brown
+<adjective> absurd
+<noun-phrase> <noun>
+<noun-phrase> <adjective> <noun-phrase>
+<noun>      cat
+<noun>      dog
+<noun>      table
+<noun>      car
