@@ -1,3 +1,8 @@
+2009-03-15 Michael Hasselmann <michaelh@openismus.com>
+
+* src/grammar_stack.cpp:
+  A non-recursive version of src/grammar.cpp
+
 2009-03-12 Michael Hasselmann <michaelh@openismus.com>
 
 * src/coll.cpp, src/grammar.cpp, src/grammar.txt:
