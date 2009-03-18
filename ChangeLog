@@ -1,3 +1,10 @@
+2009-03-18 Michael Hasselmann <michaelh@openismus.com>
+
+* src/skiplist.cpp
+  An attempt to implement skip lists, in a C++ OO way. It is still logically
+  flawed which lets the implementation's find performance degenerate to O(n).
+  Also, delete is missing yet.
+
 2009-03-15 Michael Hasselmann <michaelh@openismus.com>
 
 * src/grammar_stack.cpp:
